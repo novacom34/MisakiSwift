@@ -1,7 +1,6 @@
 import Foundation
 import MLX
 import MLXNN
-import MLXRandom
 
 nonisolated final class BARTModel: Module {
   let config: BARTConfig
